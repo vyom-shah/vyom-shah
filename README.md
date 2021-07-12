@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently a Computer Science Graduate Student studying in Stevens Institute of Technology. I worked as a Global Product and Technology Intern in Automatic Data Processing (ADP) over Summer 2020 where I was working on React, Redux, Typescript, Webpacks,Bitbucket, Jenkins etc. to help build salary options dashboard for ADP's WorkForceNow.
 - 👯 I’m looking to collaborate on **Softwares, SQL Projects and Cloud Technology!**
+- <!--
 - 🤔 I’m looking for **Full Time positions starting May 2021 as a Software Engineer.**
+-->
 - 📫 How to reach me: **[Personal](mailto:vyom0123@gmail.com) | [Academic](mailto:vshah50@stevens.edu)**
 - ⚡ Fun fact: **I'm a passionate photographer**
 
